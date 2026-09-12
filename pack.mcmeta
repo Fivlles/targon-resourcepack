@@ -1,10 +1,6 @@
 {
   "pack": {
-    "pack_format": 100,
-    "supported_formats": {
-      "min_inclusive": 46,
-      "max_inclusive": 999
-    },
+    "pack_format": 88,
     "description": "Targon Resource Pack"
   }
 }
