@@ -17,7 +17,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/aqua_affinity_1.png",
+                          "file":  "minecraft:font/enchant_aqua_affinity.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -26,7 +26,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/bane_of_arthropods_1.png",
+                          "file":  "minecraft:font/enchant_bane_of_arthropods.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -35,7 +35,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/breach_1.png",
+                          "file":  "minecraft:font/enchant_binding_curse.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -44,7 +44,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/blast_protection_1.png",
+                          "file":  "minecraft:font/enchant_blast_protection.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -53,7 +53,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/channeling_1.png",
+                          "file":  "minecraft:font/enchant_breach.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -62,7 +62,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/binding_curse_1.png",
+                          "file":  "minecraft:font/enchant_channeling.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -71,7 +71,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/density_1.png",
+                          "file":  "minecraft:font/enchant_density.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -80,7 +80,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/depth_strider_1.png",
+                          "file":  "minecraft:font/enchant_depth_strider.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -89,7 +89,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/efficiency_1.png",
+                          "file":  "minecraft:font/enchant_efficiency.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -98,7 +98,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/feather_falling_1.png",
+                          "file":  "minecraft:font/enchant_feather_falling.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -107,7 +107,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/fire_aspect_1.png",
+                          "file":  "minecraft:font/enchant_fire_aspect.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -116,7 +116,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/fire_protection_1.png",
+                          "file":  "minecraft:font/enchant_fire_protection.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -125,7 +125,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/flame_1.png",
+                          "file":  "minecraft:font/enchant_flame.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -134,7 +134,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/fortune_1.png",
+                          "file":  "minecraft:font/enchant_fortune.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -143,7 +143,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/frost_walker_1.png",
+                          "file":  "minecraft:font/enchant_frost_walker.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -152,7 +152,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/impaling_1.png",
+                          "file":  "minecraft:font/enchant_impaling.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -161,7 +161,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/infinity_1.png",
+                          "file":  "minecraft:font/enchant_infinity.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -170,7 +170,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/knockback_1.png",
+                          "file":  "minecraft:font/enchant_knockback.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -179,7 +179,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/looting_1.png",
+                          "file":  "minecraft:font/enchant_looting.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -188,7 +188,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/loyalty_1.png",
+                          "file":  "minecraft:font/enchant_loyalty.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -197,7 +197,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/luck_of_the_sea_1.png",
+                          "file":  "minecraft:font/enchant_luck_of_the_sea.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -206,7 +206,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/lure_1.png",
+                          "file":  "minecraft:font/enchant_lure.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -215,7 +215,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/mending_1.png",
+                          "file":  "minecraft:font/enchant_mending.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -224,7 +224,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/multishot_1.png",
+                          "file":  "minecraft:font/enchant_multishot.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -233,7 +233,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/piercing_1.png",
+                          "file":  "minecraft:font/enchant_piercing.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -242,7 +242,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/power_1.png",
+                          "file":  "minecraft:font/enchant_power.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -251,7 +251,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/projectile_protection_1.png",
+                          "file":  "minecraft:font/enchant_projectile_protection.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -260,7 +260,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/protection_1.png",
+                          "file":  "minecraft:font/enchant_protection.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -269,7 +269,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/punch_1.png",
+                          "file":  "minecraft:font/enchant_punch.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -278,7 +278,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/quick_charge_1.png",
+                          "file":  "minecraft:font/enchant_quick_charge.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -287,7 +287,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/respiration_1.png",
+                          "file":  "minecraft:font/enchant_respiration.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -296,7 +296,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/riptide_1.png",
+                          "file":  "minecraft:font/enchant_riptide.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -305,7 +305,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/sharpness_1.png",
+                          "file":  "minecraft:font/enchant_sharpness.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -314,7 +314,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/silk_touch_1.png",
+                          "file":  "minecraft:font/enchant_silk_touch.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -323,7 +323,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/smite_1.png",
+                          "file":  "minecraft:font/enchant_smite.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -332,7 +332,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/soul_speed_1.png",
+                          "file":  "minecraft:font/enchant_soul_speed.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -341,7 +341,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/sweeping_edge_1.png",
+                          "file":  "minecraft:font/enchant_sweeping_edge.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -350,7 +350,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/swift_sneak_1.png",
+                          "file":  "minecraft:font/enchant_swift_sneak.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -359,7 +359,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/thorns_1.png",
+                          "file":  "minecraft:font/enchant_thorns.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -368,7 +368,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/vanishing_curse_1.png",
+                          "file":  "minecraft:font/enchant_unbreaking.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -377,7 +377,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/unbreaking_1.png",
+                          "file":  "minecraft:font/enchant_vanishing_curse.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
@@ -386,7 +386,7 @@
                       },
                       {
                           "type":  "bitmap",
-                          "file":  "minecraft:item/wind_burst_1.png",
+                          "file":  "minecraft:font/enchant_wind_burst.png",
                           "ascent":  7,
                           "height":  8,
                           "chars":  [
