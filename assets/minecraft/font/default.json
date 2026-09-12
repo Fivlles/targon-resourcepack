@@ -396,8 +396,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "minecraft:font/level_1.png",
-                          "ascent":  7,
-                          "height":  8,
+                          "ascent":  9,
+                          "height":  11,
                           "chars":  [
                                         ""
                                     ]
@@ -405,8 +405,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "minecraft:font/level_2.png",
-                          "ascent":  7,
-                          "height":  8,
+                          "ascent":  9,
+                          "height":  11,
                           "chars":  [
                                         ""
                                     ]
@@ -414,8 +414,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "minecraft:font/level_3.png",
-                          "ascent":  7,
-                          "height":  8,
+                          "ascent":  9,
+                          "height":  11,
                           "chars":  [
                                         ""
                                     ]
@@ -423,8 +423,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "minecraft:font/level_4.png",
-                          "ascent":  7,
-                          "height":  8,
+                          "ascent":  9,
+                          "height":  11,
                           "chars":  [
                                         ""
                                     ]
@@ -432,8 +432,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "minecraft:font/level_5.png",
-                          "ascent":  7,
-                          "height":  8,
+                          "ascent":  9,
+                          "height":  11,
                           "chars":  [
                                         ""
                                     ]
@@ -441,8 +441,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "minecraft:font/level_6.png",
-                          "ascent":  7,
-                          "height":  8,
+                          "ascent":  9,
+                          "height":  11,
                           "chars":  [
                                         ""
                                     ]
@@ -450,8 +450,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "minecraft:font/level_7.png",
-                          "ascent":  7,
-                          "height":  8,
+                          "ascent":  9,
+                          "height":  11,
                           "chars":  [
                                         ""
                                     ]
@@ -459,8 +459,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "minecraft:font/level_8.png",
-                          "ascent":  7,
-                          "height":  8,
+                          "ascent":  9,
+                          "height":  11,
                           "chars":  [
                                         ""
                                     ]
@@ -468,8 +468,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "minecraft:font/level_9.png",
-                          "ascent":  7,
-                          "height":  8,
+                          "ascent":  9,
+                          "height":  11,
                           "chars":  [
                                         ""
                                     ]
@@ -477,8 +477,8 @@
                       {
                           "type":  "bitmap",
                           "file":  "minecraft:font/level_10.png",
-                          "ascent":  7,
-                          "height":  8,
+                          "ascent":  9,
+                          "height":  11,
                           "chars":  [
                                         ""
                                     ]
