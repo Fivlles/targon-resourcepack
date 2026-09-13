@@ -18,8 +18,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/tag_miner.png",
-            "ascent": 7,
-            "height": 8,
+            "ascent": 9,
+            "height": 11,
             "chars": [
                 ""
             ]
